@@ -37,7 +37,7 @@
 
 /* General styles */
 
-/* endable this to add smooth scrolling */
+/* enable this to add smooth scrolling */
 /* html {
     scroll-behavior: smooth;
 } */
@@ -211,11 +211,6 @@ header {
 .nav-open .hamburger::after {
     opacity: 0;
 }
-
-
-
-
-
 
 .hamburger {
     display: block;
